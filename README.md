@@ -9,4 +9,4 @@ Instructions:
 1. Clone the repository
 2. Build docker image using command "docker build -t huggingface-demo ."
 3. Create a container using docker image with the following command "docker run -p 8000:8000 huggingface-demo"
-4. Oepn file "mynotebook.ipynb" and run all cells to make a request and receive a response
+4. Open file "mynotebook.ipynb" and run all cells to make a request and receive a response
